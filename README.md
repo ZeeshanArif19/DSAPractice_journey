@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0695-max-area-of-island) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0130-surrounded-regions) |
+| [0207-course-schedule](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0210-course-schedule-ii) |
 | [0433-minimum-genetic-mutation](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0433-minimum-genetic-mutation) |
 | [0542-01-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0542-01-matrix) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0841-keys-and-rooms) |
@@ -86,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
