@@ -1,0 +1,46 @@
+class Solution {
+  public:
+    string findOrder(vector<string> &words) {
+        //initialize indegree for every unique char to 0
+        unordered_map<char,vector<int>> adj;
+        unordered_map<char,int> indegree;
+        
+        for(int i=0;i<words.size();i++){
+            for(char c:words[i]) indegree[c]=0;
+        }
+        //build graph
+        for(int i=0;i<words.size()-1;i++){
+            string s1=words[i];
+            string s2=words[i+1];
+            //prefix case
+            if(s1.size()>s2.size() && s1.substr(0,s2.size())==s2) return "";
+            //find first difference
+            int size=min(s1.size(),s2.size());
+            for(int i=0;i<size;i++){
+                if(s1[i]!=s2[i]){
+                    adj[s1[i]].push_back(s2[i]);
+                    indegree[s2[i]]++;
+                    break;
+                }
+            }
+        }
+        //run kahns
+        queue<char> q;
+        string res="";
+        for(auto &it:indegree){
+            if(it.second==0) q.push(it.first);
+        }
+        
+        while(!q.empty()){
+            char top=q.front();
+            q.pop();
+            res+=top;
+            
+            for(auto &it: adj[top]){
+                indegree[it]--;
+                if(indegree[it]==0) q.push(it);
+            }
+        }
+        return res.size()==indegree.size()? res:"";
+    }
+};
