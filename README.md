@@ -81,12 +81,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0752-open-the-lock) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0127-word-ladder](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0127-word-ladder) |
 | [0433-minimum-genetic-mutation](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0752-open-the-lock) |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0210-course-schedule-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
