@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0130-surrounded-regions) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0210-course-schedule-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0417-pacific-atlantic-water-flow) |
@@ -156,4 +157,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1514-path-with-maximum-probability](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1514-path-with-maximum-probability) |
+## Stack
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0145-binary-tree-postorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0145-binary-tree-postorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
