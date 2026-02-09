@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0752-open-the-lock) |
 | [0841-keys-and-rooms](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0994-rotting-oranges](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1514-path-with-maximum-probability](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1514-path-with-maximum-probability) |
 ## Array
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0542-01-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0542-01-matrix) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1191-k-concatenation-maximum-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1191-k-concatenation-maximum-sum) |
 ## Simulation
 |  |
@@ -232,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
