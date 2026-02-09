@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0547-number-of-provinces) |
+| [0687-longest-univalue-path](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0733-flood-fill) |
 | [0841-keys-and-rooms](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0841-keys-and-rooms) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
+| [0687-longest-univalue-path](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0687-longest-univalue-path) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Binary Tree
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
+| [0687-longest-univalue-path](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0687-longest-univalue-path) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Backtracking
 |  |
