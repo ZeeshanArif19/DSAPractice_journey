@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0841-keys-and-rooms) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1020-number-of-enclaves](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1020-number-of-enclaves) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0542-01-matrix) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1191-k-concatenation-maximum-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1191-k-concatenation-maximum-sum) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
 | [0687-longest-univalue-path](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0687-longest-univalue-path) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
 | [0687-longest-univalue-path](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0687-longest-univalue-path) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
