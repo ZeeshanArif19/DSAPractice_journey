@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0222-count-complete-tree-nodes) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
 ## Prefix Sum
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0687-longest-univalue-path](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0687-longest-univalue-path) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
 | [0687-longest-univalue-path](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0687-longest-univalue-path) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Bitmask
 |  |
