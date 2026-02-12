@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0733-flood-fill) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0841-keys-and-rooms) |
+| [0968-binary-tree-cameras](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1020-number-of-enclaves](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1020-number-of-enclaves) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
+| [0968-binary-tree-cameras](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0968-binary-tree-cameras) |
 | [1191-k-concatenation-maximum-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1191-k-concatenation-maximum-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 ## Simulation
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0687-longest-univalue-path) |
+| [0968-binary-tree-cameras](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0687-longest-univalue-path) |
+| [0968-binary-tree-cameras](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0968-binary-tree-cameras) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1325-delete-leaves-with-a-given-value) |
