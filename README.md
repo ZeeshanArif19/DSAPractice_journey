@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0417-pacific-atlantic-water-flow) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0547-number-of-provinces) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0662-maximum-width-of-binary-tree) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0337-house-robber-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0687-longest-univalue-path) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
 | [0337-house-robber-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0337-house-robber-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0662-maximum-width-of-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0687-longest-univalue-path) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -331,5 +334,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0099-recover-binary-search-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
