@@ -10,8 +10,15 @@ public:
         
     }
     int countHousePlacements(int n) {
-        vector<int> dp(n+1,-1);
-        long long oneway=fibo(n,dp);
-        return (oneway*oneway)%MOD;
+        vector<long long> dp(n+1,-1);
+        // long long oneway=fibo(n,dp);
+        // return (oneway*oneway)%MOD;
+
+        dp[0]=1;
+        dp[1]=2;
+        for(int i=2;i<=n;i++){
+            dp[i]=(dp[i-1]+dp[i-2])%MOD;
+        }
+        return (dp[n]*dp[n])%MOD;
     }
 };
