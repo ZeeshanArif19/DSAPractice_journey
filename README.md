@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1191-k-concatenation-maximum-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2320-count-number-of-ways-to-place-houses](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2320-count-number-of-ways-to-place-houses) |
 ## Simulation
 |  |
 | ------- |
