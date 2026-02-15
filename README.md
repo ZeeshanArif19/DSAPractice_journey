@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0213-house-robber-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0213-house-robber-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0695-max-area-of-island) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0213-house-robber-ii) |
 | [0337-house-robber-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0337-house-robber-iii) |
 | [0542-01-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0787-cheapest-flights-within-k-stops) |
