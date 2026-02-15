@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
+| [2140-solving-questions-with-brainpower](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2140-solving-questions-with-brainpower) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Matrix
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1191-k-concatenation-maximum-sum) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [2140-solving-questions-with-brainpower](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2140-solving-questions-with-brainpower) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2320-count-number-of-ways-to-place-houses) |
 ## Simulation
 |  |
