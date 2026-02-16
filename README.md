@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0221-maximal-square) |
+| [0403-frog-jump](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0403-frog-jump) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0695-max-area-of-island) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0221-maximal-square) |
 | [0337-house-robber-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0337-house-robber-iii) |
+| [0403-frog-jump](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0403-frog-jump) |
 | [0542-01-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0542-01-matrix) |
 | [0740-delete-and-earn](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0740-delete-and-earn) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0787-cheapest-flights-within-k-stops) |
