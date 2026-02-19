@@ -20,7 +20,22 @@ public:
         if(abs(target)>totsum || totsum+target<0 || (target+totsum)%2==1) return 0;
         int W=(totsum+target)/2;
 
-        vector<vector<int>> dp(n+1,vector<int>(W+1,-1));
-        return solve(nums,0,W,0,dp);
+        vector<vector<int>> dp(n+1,vector<int>(W+1));
+        // return solve(nums,0,W,0,dp);
+
+        dp[n][W]=1;
+        for(int i=0;i<W;i++) dp[n][i]=0;
+
+        for(int i=n-1;i>=0;i--){
+            for(int j=W;j>=0;j--){
+                int pick=0;
+                if(j+nums[i]<=W){
+                    pick=dp[i+1][j+nums[i]];
+                }
+                int notpick=dp[i+1][j];
+                dp[i][j]=pick+notpick;
+            }
+        }
+        return dp[0][0];
     }
 };
