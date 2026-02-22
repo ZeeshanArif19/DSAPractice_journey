@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1514-path-with-maximum-probability](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2140-solving-questions-with-brainpower](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2140-solving-questions-with-brainpower) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Matrix
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0713-subarray-product-less-than-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
+| [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 ## Prefix Sum
 |  |
 | ------- |
