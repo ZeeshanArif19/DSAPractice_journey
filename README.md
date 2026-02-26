@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0403-frog-jump) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0542-01-matrix) |
@@ -434,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0630-course-schedule-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0630-course-schedule-iii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0630-course-schedule-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0630-course-schedule-iii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
