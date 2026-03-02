@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0740-delete-and-earn](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0740-delete-and-earn) |
 | [0752-open-the-lock](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0763-partition-labels) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0992-subarrays-with-k-different-integers) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0433-minimum-genetic-mutation) |
 | [0752-open-the-lock](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0752-open-the-lock) |
+| [0763-partition-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0763-partition-labels) |
 | [0821-shortest-distance-to-a-character](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1332-remove-palindromic-subsequences](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1332-remove-palindromic-subsequences) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0763-partition-labels) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0821-shortest-distance-to-a-character) |
 | [1332-remove-palindromic-subsequences](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1332-remove-palindromic-subsequences) |
@@ -455,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0630-course-schedule-iii) |
+| [0763-partition-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0763-partition-labels) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Sorting
