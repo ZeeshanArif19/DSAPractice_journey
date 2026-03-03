@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0221-maximal-square) |
+| [0228-summary-ranges](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0322-coin-change) |
 | [0403-frog-jump](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0403-frog-jump) |
