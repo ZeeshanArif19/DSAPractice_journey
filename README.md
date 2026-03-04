@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1191-k-concatenation-maximum-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1191-k-concatenation-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1383-maximum-performance-of-a-team](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1383-maximum-performance-of-a-team) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1463-cherry-pickup-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1463-cherry-pickup-ii) |
 | [1514-path-with-maximum-probability](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1514-path-with-maximum-probability) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0630-course-schedule-iii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1383-maximum-performance-of-a-team](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1383-maximum-performance-of-a-team) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1514-path-with-maximum-probability](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1514-path-with-maximum-probability) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0630-course-schedule-iii) |
 | [0763-partition-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0763-partition-labels) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1383-maximum-performance-of-a-team](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1383-maximum-performance-of-a-team) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 ## Sorting
 |  |
@@ -473,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0630-course-schedule-iii) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1383-maximum-performance-of-a-team](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1383-maximum-performance-of-a-team) |
 ## Sweep Line
 |  |
 | ------- |
