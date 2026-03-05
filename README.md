@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1463-cherry-pickup-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1463-cherry-pickup-ii) |
 | [1514-path-with-maximum-probability](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1514-path-with-maximum-probability) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0713-subarray-product-less-than-k](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0713-subarray-product-less-than-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 ## Prefix Sum
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1383-maximum-performance-of-a-team) |
+| [1552-magnetic-force-between-two-balls](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
 ## Sweep Line
 |  |
