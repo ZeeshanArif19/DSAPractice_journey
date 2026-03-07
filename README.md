@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1191-k-concatenation-maximum-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1191-k-concatenation-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1383-maximum-performance-of-a-team) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1331-rank-transform-of-an-array) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0767-reorganize-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
+| [1331-rank-transform-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1331-rank-transform-of-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1383-maximum-performance-of-a-team) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1552-magnetic-force-between-two-balls) |
