@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0403-frog-jump](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0403-frog-jump) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0435-non-overlapping-intervals) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0127-word-ladder) |
+| [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0433-minimum-genetic-mutation) |
 | [0621-task-scheduler](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0621-task-scheduler) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0992-subarrays-with-k-different-integers) |
@@ -314,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0630-course-schedule-iii) |
 | [0767-reorganize-string](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0767-reorganize-string) |
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search Tree
@@ -502,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0621-task-scheduler) |
@@ -526,6 +532,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
