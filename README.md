@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0328-odd-even-linked-list) |
 ## Divide and Conquer
@@ -493,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0148-sort-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
@@ -536,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
@@ -577,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0148-sort-list) |
 ## Design
 |  |
 | ------- |
