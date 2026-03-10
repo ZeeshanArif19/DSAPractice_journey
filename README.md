@@ -483,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0023-merge-k-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0086-partition-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -595,5 +596,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
