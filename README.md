@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0046-permutations) |
 | [0054-spiral-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0057-insert-interval) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0113-path-sum-ii) |
