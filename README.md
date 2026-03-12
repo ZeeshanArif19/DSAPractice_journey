@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0079-word-search) |
 | [0099-recover-binary-search-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0099-recover-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0120-triangle) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0221-maximal-square) |
@@ -265,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0091-decode-ways) |
 | [0127-word-ladder](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0127-word-ladder) |
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
@@ -447,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0079-word-search) |
 | [0113-path-sum-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
 | [0494-target-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0494-target-sum) |
