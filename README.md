@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2140-solving-questions-with-brainpower](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2140-solving-questions-with-brainpower) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
 ## Matrix
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1331-rank-transform-of-an-array) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
 |  |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0992-subarrays-with-k-different-integers) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Math
 |  |
 | ------- |
@@ -551,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1405-longest-happy-string) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
 ## Sorting
 |  |
