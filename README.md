@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0475-heaters) |
 | [0494-target-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0542-01-matrix) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0222-count-complete-tree-nodes) |
+| [0475-heaters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0713-subarray-product-less-than-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0234-palindrome-linked-list) |
 | [0295-find-median-from-data-stream](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0295-find-median-from-data-stream) |
+| [0475-heaters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0475-heaters) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0658-find-k-closest-elements) |
 | [0763-partition-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0763-partition-labels) |
@@ -592,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0475-heaters) |
 | [0621-task-scheduler](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0658-find-k-closest-elements) |
