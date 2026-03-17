@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0821-shortest-distance-to-a-character](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0821-shortest-distance-to-a-character) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0881-boats-to-save-people](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
@@ -508,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0763-partition-labels) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0821-shortest-distance-to-a-character) |
+| [0881-boats-to-save-people](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0986-interval-list-intersections) |
 | [1332-remove-palindromic-subsequences](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1332-remove-palindromic-subsequences) |
@@ -577,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0767-reorganize-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0881-boats-to-save-people](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0948-bag-of-tokens) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0767-reorganize-string) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0881-boats-to-save-people](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
