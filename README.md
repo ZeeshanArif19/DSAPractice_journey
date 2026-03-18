@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1463-cherry-pickup-ii) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
+| [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Dynamic Programming
 |  |
 | ------- |
