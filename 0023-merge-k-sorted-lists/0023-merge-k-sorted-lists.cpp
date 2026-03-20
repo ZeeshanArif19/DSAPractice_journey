@@ -12,7 +12,7 @@ class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
         ListNode* dummy=new ListNode(-1);
-        ListNode* tail=dummy;
+        ListNode* tail=dummy; //moving pointer to append the next node
         auto cmp=[&](ListNode* &a,ListNode* &b){
             return a->val>b->val;
         };
