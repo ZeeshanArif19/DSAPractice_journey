@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0174-dungeon-game) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
