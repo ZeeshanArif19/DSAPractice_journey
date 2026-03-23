@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0740-delete-and-earn) |
 | [0741-cherry-pickup](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0741-cherry-pickup) |
 | [0752-open-the-lock](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0752-open-the-lock) |
+| [0766-toeplitz-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0766-toeplitz-matrix) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0821-shortest-distance-to-a-character](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0821-shortest-distance-to-a-character) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0733-flood-fill) |
 | [0741-cherry-pickup](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0741-cherry-pickup) |
+| [0766-toeplitz-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0766-toeplitz-matrix) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0994-rotting-oranges](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1020-number-of-enclaves) |
