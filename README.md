@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1202-smallest-string-with-swaps) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 ## Graph Theory
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0990-satisfiability-of-equality-equations) |
 | [1514-path-with-maximum-probability](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1514-path-with-maximum-probability) |
+| [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 ## Array
 |  |
