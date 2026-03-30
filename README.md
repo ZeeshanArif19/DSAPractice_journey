@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0695-max-area-of-island) |
 | [0827-making-a-large-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0839-similar-string-groups) |
+| [0952-largest-component-size-by-common-factor](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0952-largest-component-size-by-common-factor) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0990-satisfiability-of-equality-equations) |
 | [1020-number-of-enclaves](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1020-number-of-enclaves) |
 | [1202-smallest-string-with-swaps](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1202-smallest-string-with-swaps) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0904-fruit-into-baskets) |
 | [0948-bag-of-tokens](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0948-bag-of-tokens) |
+| [0952-largest-component-size-by-common-factor](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0952-largest-component-size-by-common-factor) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0986-interval-list-intersections) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0990-satisfiability-of-equality-equations) |
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0839-similar-string-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0839-similar-string-groups) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0904-fruit-into-baskets) |
+| [0952-largest-component-size-by-common-factor](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0952-largest-component-size-by-common-factor) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [1202-smallest-string-with-swaps](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1202-smallest-string-with-swaps) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1248-count-number-of-nice-subarrays) |
@@ -405,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0062-unique-paths) |
 | [0282-expression-add-operators](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0282-expression-add-operators) |
+| [0952-largest-component-size-by-common-factor](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0952-largest-component-size-by-common-factor) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1627-graph-connectivity-with-threshold](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1627-graph-connectivity-with-threshold) |
@@ -725,5 +729,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0952-largest-component-size-by-common-factor](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0952-largest-component-size-by-common-factor) |
 | [1627-graph-connectivity-with-threshold](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1627-graph-connectivity-with-threshold) |
 <!---LeetCode Topics End-->
