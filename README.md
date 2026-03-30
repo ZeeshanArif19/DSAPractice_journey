@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2592-maximize-greatness-of-an-array) |
 ## Matrix
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1733-minimum-number-of-people-to-teach](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## String
 |  |
 | ------- |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1627-graph-connectivity-with-threshold](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1627-graph-connectivity-with-threshold) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -731,4 +734,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0952-largest-component-size-by-common-factor) |
 | [1627-graph-connectivity-with-threshold](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1627-graph-connectivity-with-threshold) |
+| [2521-distinct-prime-factors-of-product-of-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
