@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0498-diagonal-traverse) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Hash Table
 |  |
 | ------- |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1627-graph-connectivity-with-threshold](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1627-graph-connectivity-with-threshold) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Heap (Priority Queue)
 |  |
@@ -734,5 +736,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0952-largest-component-size-by-common-factor](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0952-largest-component-size-by-common-factor) |
 | [1627-graph-connectivity-with-threshold](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1627-graph-connectivity-with-threshold) |
+| [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 <!---LeetCode Topics End-->
