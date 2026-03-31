@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1046-last-stone-weight) |
 | [1049-last-stone-weight-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1049-last-stone-weight-ii) |
+| [1090-largest-values-from-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1090-largest-values-from-labels) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1191-k-concatenation-maximum-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1191-k-concatenation-maximum-sum) |
 | [1202-smallest-string-with-swaps](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1202-smallest-string-with-swaps) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0928-minimize-malware-spread-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0928-minimize-malware-spread-ii) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0952-largest-component-size-by-common-factor) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0992-subarrays-with-k-different-integers) |
+| [1090-largest-values-from-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1090-largest-values-from-labels) |
 | [1202-smallest-string-with-swaps](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1202-smallest-string-with-swaps) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0992-subarrays-with-k-different-integers) |
+| [1090-largest-values-from-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1090-largest-values-from-labels) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 ## Math
 |  |
@@ -652,6 +655,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0948-bag-of-tokens) |
+| [1090-largest-values-from-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1090-largest-values-from-labels) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1338-reduce-array-size-to-the-half) |
@@ -686,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
+| [1090-largest-values-from-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1090-largest-values-from-labels) |
 | [1202-smallest-string-with-swaps](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1202-smallest-string-with-swaps) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1331-rank-transform-of-an-array) |
