@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2517-maximum-tastiness-of-candy-basket) |
 ## Prefix Sum
 |  |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0713-subarray-product-less-than-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 ## Counting
 |  |
 | ------- |
@@ -676,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2592-maximize-greatness-of-an-array) |
@@ -710,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2592-maximize-greatness-of-an-array) |
