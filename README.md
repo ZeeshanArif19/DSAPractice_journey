@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0821-shortest-distance-to-a-character](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0821-shortest-distance-to-a-character) |
+| [0826-most-profit-assigning-work](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0826-most-profit-assigning-work) |
 | [0827-making-a-large-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0839-similar-string-groups) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0713-subarray-product-less-than-k) |
+| [0826-most-profit-assigning-work](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0826-most-profit-assigning-work) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
@@ -591,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0763-partition-labels) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0821-shortest-distance-to-a-character](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0821-shortest-distance-to-a-character) |
+| [0826-most-profit-assigning-work](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0826-most-profit-assigning-work) |
 | [0881-boats-to-save-people](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0948-bag-of-tokens) |
 | [0986-interval-list-intersections](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0986-interval-list-intersections) |
@@ -661,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0767-reorganize-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0807-max-increase-to-keep-city-skyline) |
+| [0826-most-profit-assigning-work](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0826-most-profit-assigning-work) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0948-bag-of-tokens) |
@@ -698,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0630-course-schedule-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0630-course-schedule-iii) |
 | [0658-find-k-closest-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0658-find-k-closest-elements) |
 | [0767-reorganize-string](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0767-reorganize-string) |
+| [0826-most-profit-assigning-work](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0826-most-profit-assigning-work) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0948-bag-of-tokens) |
