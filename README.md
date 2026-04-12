@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0062-unique-paths) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0032-longest-valid-parentheses) |
 | [0076-minimum-window-substring](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0091-decode-ways) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0032-longest-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0234-palindrome-linked-list) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
