@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0142-linked-list-cycle-ii) |
@@ -712,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0295-find-median-from-data-stream) |
