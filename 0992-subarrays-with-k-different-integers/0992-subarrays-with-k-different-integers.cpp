@@ -1,27 +1,29 @@
 class Solution {
 public:
-    int countAtmostK(vector<int> &nums,int k){
+    int atmostk(vector<int> &nums,int k){
         int n=nums.size();
         unordered_map<int,int> mpp;
-        int count=0;
-        int i=0,j=0;
         
-        while(j<n){
-            mpp[nums[j]]++;
+        int l=0,r=0;
+        int count=0;
+
+        while(r<n){
+            mpp[nums[r]]++;
             while(mpp.size()>k){
-                mpp[nums[i]]--;
-                if(mpp[nums[i]]==0) mpp.erase(nums[i]);
-                i++;
+                mpp[nums[l]]--;
+                if(mpp[nums[l]]==0) mpp.erase(nums[l]);
+                l++;
             }
-            if(mpp.size()<=k) count+=(j-i+1);
-            j++; 
+            if(mpp.size()<=k){
+                count+=(r-l+1);
+            }
+            r++;
         }
         return count;
     }
-
     int subarraysWithKDistinct(vector<int>& nums, int k) {
-        int countAtK=countAtmostK(nums,k);
-        int countAtKminus1=countAtmostK(nums,k-1);
-        return countAtK-countAtKminus1;
+        int a1=atmostk(nums,k);
+        int a2=atmostk(nums,k-1);
+        return a1-a2;
     }
 };
