@@ -11,19 +11,21 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* node,int curr,int &sum){
+    void dfs(TreeNode* node,int &sum,int temp){
         if(node==nullptr) return;
+        temp=temp*10+node->val;
         
-        curr=curr*10+node->val;
         if(node->left==nullptr && node->right==nullptr){
-            sum+=curr;
+            sum+=temp;
         }
-        dfs(node->left,curr,sum);
-        dfs(node->right,curr,sum);
+        else{
+            dfs(node->left,sum,temp);
+            dfs(node->right,sum,temp);
+        }
     }
     int sumNumbers(TreeNode* root) {
         int sum=0;
-        dfs(root,0,sum);
+        dfs(root,sum,0);
         return sum;
     }
 };
