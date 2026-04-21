@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0239-sliding-window-maximum) |
 | [0289-game-of-life](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0289-game-of-life) |
+| [0312-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0213-house-robber-ii) |
 | [0221-maximal-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0221-maximal-square) |
+| [0312-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0337-house-robber-iii) |
 | [0403-frog-jump](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0403-frog-jump) |
