@@ -19,8 +19,24 @@ public:
         sort(cuts.begin(),cuts.end());
 
         int m=cuts.size();
-        vector<vector<int>> dp(m,vector<int>(m,-1));
+        vector<vector<int>> dp(m,vector<int>(m,0));
 
-        return solve(cuts,0,m-1,dp);
+        // return solve(cuts,0,m-1,dp);
+
+        for(int i=m-1;i>=0;i--){
+            for(int j=i+1;j<m;j++){
+                if(j-i<=1){
+                    dp[i][j]=0;
+                    continue;
+                }
+                int mini=1e9;
+                for(int k=i+1;k<j;k++){
+                    int currcost=(cuts[j]-cuts[i])+dp[i][k]+dp[k][j];
+                    mini=min(currcost,mini);
+                }
+                dp[i][j]=mini;
+            }
+        }
+        return dp[0][m-1];
     }
 };
