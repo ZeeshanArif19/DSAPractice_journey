@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
+| [2560-house-robber-iv](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2560-house-robber-iv) |
 | [2592-maximize-greatness-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2592-maximize-greatness-of-an-array) |
 | [3046-split-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3046-split-the-array) |
 ## Matrix
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2140-solving-questions-with-brainpower) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2320-count-number-of-ways-to-place-houses](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2320-count-number-of-ways-to-place-houses) |
+| [2560-house-robber-iv](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2560-house-robber-iv) |
 ## Simulation
 |  |
 | ------- |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2560-house-robber-iv](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2560-house-robber-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -735,6 +738,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
+| [2560-house-robber-iv](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2560-house-robber-iv) |
 | [2592-maximize-greatness-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2592-maximize-greatness-of-an-array) |
 ## Sorting
 |  |
