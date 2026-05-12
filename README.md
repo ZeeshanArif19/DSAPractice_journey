@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2055-plates-between-candles](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2055-plates-between-candles) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3355-zero-array-transformation-i](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3355-zero-array-transformation-i) |
 ## Counting
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1792-maximum-average-pass-ratio](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1792-maximum-average-pass-ratio) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1962-remove-stones-to-minimize-the-total) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
 ## Shortest Path
 |  |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2592-maximize-greatness-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2592-maximize-greatness-of-an-array) |
 ## Bit Manipulation
 |  |
@@ -750,6 +754,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
@@ -793,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
