@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1049-last-stone-weight-ii) |
 | [1090-largest-values-from-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1090-largest-values-from-labels) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1094-car-pooling](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1109-corporate-flight-bookings) |
 | [1191-k-concatenation-maximum-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1191-k-concatenation-maximum-sum) |
 | [1202-smallest-string-with-swaps](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1202-smallest-string-with-swaps) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0498-diagonal-traverse) |
+| [1094-car-pooling](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1094-car-pooling) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2507-smallest-value-after-replacing-with-sum-of-prime-factors](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2507-smallest-value-after-replacing-with-sum-of-prime-factors) |
 ## Hash Table
@@ -460,6 +462,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0713-subarray-product-less-than-k) |
+| [1094-car-pooling](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1109-corporate-flight-bookings) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -506,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1094-car-pooling) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1338-reduce-array-size-to-the-half) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1383-maximum-performance-of-a-team](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1383-maximum-performance-of-a-team) |
@@ -772,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
 | [1090-largest-values-from-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1090-largest-values-from-labels) |
+| [1094-car-pooling](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1094-car-pooling) |
 | [1202-smallest-string-with-swaps](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1202-smallest-string-with-swaps) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1331-rank-transform-of-an-array) |
