@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
+| [2536-increment-submatrices-by-one](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2536-increment-submatrices-by-one) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
 | [2560-house-robber-iv](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2560-house-robber-iv) |
 | [2592-maximize-greatness-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2592-maximize-greatness-of-an-array) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2536-increment-submatrices-by-one](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2536-increment-submatrices-by-one) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2055-plates-between-candles](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2055-plates-between-candles) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [2536-increment-submatrices-by-one](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2536-increment-submatrices-by-one) |
 | [3355-zero-array-transformation-i](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3355-zero-array-transformation-i) |
 ## Counting
 |  |
