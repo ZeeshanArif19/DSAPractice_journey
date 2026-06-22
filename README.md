@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0403-frog-jump](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0410-split-array-largest-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0337-house-robber-iii) |
 | [0403-frog-jump](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0518-coin-change-ii) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0222-count-complete-tree-nodes) |
+| [0410-split-array-largest-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0713-subarray-product-less-than-k) |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0713-subarray-product-less-than-k) |
 | [1094-car-pooling](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1094-car-pooling) |
 | [1109-corporate-flight-bookings](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1109-corporate-flight-bookings) |
@@ -738,6 +742,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0135-candy) |
+| [0410-split-array-largest-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0621-task-scheduler](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0621-task-scheduler) |
