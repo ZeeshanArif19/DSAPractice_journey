@@ -1,34 +1,30 @@
 class Solution {
 public:
-    int sumarr(vector<int> &weights,int n){
-        int sum=0;
-        for(int i=0;i<n;i++) sum+=weights[i];
-        return sum;
-    }
-    bool isValid(vector<int> &weights,int maxweight,int maxdays,int n){
-        int sumweights=0;
-        int days=1;
-        for(int i=0;i<n;i++){
-            if(weights[i]>maxweight) return false;
-            if(weights[i]+sumweights<=maxweight){
-                sumweights+=weights[i];
+    bool isValid(int cap,int days,vector<int> &weights){
+        int count=1;
+        int w=0;
+
+        for(int i=0;i<weights.size();i++){
+            if(weights[i]>cap) return false;
+            else if(weights[i]+w<=cap){
+                w+=weights[i];
             }
             else{
-                days++;
-                sumweights=weights[i];
+                count++;
+                w=weights[i];
             }
         }
-        return days<=maxdays;
+        return count<=days;
     }
     int shipWithinDays(vector<int>& weights, int days) {
         int n=weights.size();
         int l=1;
-        int r=sumarr(weights,n);
+        int r=accumulate(weights.begin(),weights.end(),0);
         int ans=-1;
 
         while(l<=r){
             int mid=l+(r-l)/2;
-            if(isValid(weights,mid,days,n)){
+            if(isValid(mid,days,weights)){
                 ans=mid;
                 r=mid-1;
             }
