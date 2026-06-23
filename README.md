@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0687-longest-univalue-path](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0733-flood-fill) |
+| [0765-couples-holding-hands](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0765-couples-holding-hands) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0839-similar-string-groups) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0752-open-the-lock) |
+| [0765-couples-holding-hands](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0765-couples-holding-hands) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0827-making-a-large-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0839-similar-string-groups) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0695-max-area-of-island) |
+| [0765-couples-holding-hands](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0765-couples-holding-hands) |
 | [0827-making-a-large-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0839-similar-string-groups) |
 | [0928-minimize-malware-spread-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0928-minimize-malware-spread-ii) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0684-redundant-connection) |
+| [0765-couples-holding-hands](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0765-couples-holding-hands) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
@@ -757,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0621-task-scheduler) |
 | [0630-course-schedule-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0630-course-schedule-iii) |
 | [0763-partition-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0763-partition-labels) |
+| [0765-couples-holding-hands](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0765-couples-holding-hands) |
 | [0767-reorganize-string](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0767-reorganize-string) |
 | [0807-max-increase-to-keep-city-skyline](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0807-max-increase-to-keep-city-skyline) |
 | [0826-most-profit-assigning-work](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0826-most-profit-assigning-work) |
