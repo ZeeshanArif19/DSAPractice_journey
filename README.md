@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0228-summary-ranges) |
 | [0239-sliding-window-maximum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0312-burst-balloons) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0174-dungeon-game) |
 | [0221-maximal-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0221-maximal-square) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0498-diagonal-traverse) |
@@ -461,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0278-first-bad-version](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0410-split-array-largest-sum) |
@@ -732,6 +735,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
