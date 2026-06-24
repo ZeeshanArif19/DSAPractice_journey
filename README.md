@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1202-smallest-string-with-swaps](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1202-smallest-string-with-swaps) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1248-count-number-of-nice-subarrays) |
 | [1282-group-the-people-given-the-group-size-they-belong-to](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1282-group-the-people-given-the-group-size-they-belong-to) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1338-reduce-array-size-to-the-half) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0713-subarray-product-less-than-k) |
 | [0826-most-profit-assigning-work](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0826-most-profit-assigning-work) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1574-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1574-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
