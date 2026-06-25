@@ -17,12 +17,12 @@ public:
         
         int left=dfs(node->left);
         int right=dfs(node->right);
-
-        if(left==0 || right==0){    //no cover
+        
+        if(left==0 || right==0){
             camera++;
             return 1;
         }
-        else if(left==1 || right==1){  //has camera
+        else if(left==1 || right==1){
             return 2;
         }
         else{
