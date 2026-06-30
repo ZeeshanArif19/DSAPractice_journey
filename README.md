@@ -412,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1338-reduce-array-size-to-the-half) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1733-minimum-number-of-people-to-teach) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0990-satisfiability-of-equality-equations) |
 | [1202-smallest-string-with-swaps](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1202-smallest-string-with-swaps) |
 | [1332-remove-palindromic-subsequences](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1332-remove-palindromic-subsequences) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1405-longest-happy-string](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1405-longest-happy-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1838-frequency-of-the-most-frequent-element) |
