@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0337-house-robber-iii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0433-minimum-genetic-mutation](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0433-minimum-genetic-mutation) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0547-number-of-provinces](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0684-redundant-connection) |
 | [0765-couples-holding-hands](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0765-couples-holding-hands) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0289-game-of-life) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0498-diagonal-traverse) |
@@ -342,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0337-house-robber-iii) |
 | [0403-frog-jump](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0410-split-array-largest-sum) |
@@ -464,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -979,4 +986,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0572-subtree-of-another-tree) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
