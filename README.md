@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0064-minimum-path-sum) |
 | [0091-decode-ways](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0132-palindrome-partitioning-ii) |
@@ -568,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0096-unique-binary-search-trees) |
 | [0282-expression-add-operators](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0282-expression-add-operators) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -629,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0101-symmetric-tree) |
@@ -672,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0101-symmetric-tree) |
@@ -812,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0096-unique-binary-search-trees) |
 | [0099-recover-binary-search-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0450-delete-node-in-a-bst) |
