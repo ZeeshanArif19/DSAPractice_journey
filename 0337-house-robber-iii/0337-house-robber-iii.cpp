@@ -16,15 +16,14 @@ public:
         
         pair<int,int> left=dfs(node->left);
         pair<int,int> right=dfs(node->right);
-        
-        int maxinclude=left.second + right.second + node->val;
+
+        int maxinclude=node->val + left.second + right.second;
         int maxexclude=max(left.first,left.second) + max(right.first,right.second);
         
         return {maxinclude,maxexclude};
     }
     int rob(TreeNode* root) {
-        pair<int,int> ans=dfs(root);
-        int maxamount=max(ans.first,ans.second);
-        return maxamount;
+        pair<int,int> maxelem=dfs(root); //maxinclude,maxexclude
+        return maxelem.first>maxelem.second? maxelem.first:maxelem.second;
     }
 };
