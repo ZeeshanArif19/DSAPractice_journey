@@ -13,9 +13,6 @@ class Solution {
 public:
     int solve(TreeNode* node,int max_so_far){
         if(node==NULL) return 0;
-        
-        int count=0;
-        if(node->val>=max_so_far) count++;
 
         int next_max=max(max_so_far,node->val);
         int left=solve(node->left,next_max);
