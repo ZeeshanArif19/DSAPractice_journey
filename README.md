@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0289-game-of-life) |
 | [0312-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0312-burst-balloons) |
+| [0318-maximum-product-of-word-lengths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0282-expression-add-operators) |
+| [0318-maximum-product-of-word-lengths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0433-minimum-genetic-mutation) |
@@ -808,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0287-find-the-duplicate-number) |
+| [0318-maximum-product-of-word-lengths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0980-unique-paths-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0980-unique-paths-iii) |
 ## Bitmask
