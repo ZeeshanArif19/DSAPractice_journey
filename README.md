@@ -210,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0475-heaters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0475-heaters) |
+| [0486-predict-the-winner](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0518-coin-change-ii) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0435-non-overlapping-intervals) |
 | [0464-can-i-win](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0542-01-matrix) |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0486-predict-the-winner) |
 | [0650-2-keys-keyboard](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0650-2-keys-keyboard) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0952-largest-component-size-by-common-factor) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
@@ -995,6 +998,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0025-reverse-nodes-in-k-group) |
 | [0234-palindrome-linked-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0234-palindrome-linked-list) |
+| [0486-predict-the-winner](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0486-predict-the-winner) |
 | [0894-all-possible-full-binary-trees](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0894-all-possible-full-binary-trees) |
 ## Number Theory
 |  |
@@ -1047,4 +1051,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0464-can-i-win) |
+| [0486-predict-the-winner](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
