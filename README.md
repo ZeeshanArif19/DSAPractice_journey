@@ -372,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0435-non-overlapping-intervals) |
+| [0464-can-i-win](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0464-can-i-win) |
 | [0494-target-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0542-01-matrix) |
@@ -592,6 +593,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0282-expression-add-operators) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0464-can-i-win](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0464-can-i-win) |
 | [0650-2-keys-keyboard](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0650-2-keys-keyboard) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0952-largest-component-size-by-common-factor) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
@@ -811,11 +813,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0318-maximum-product-of-word-lengths) |
+| [0464-can-i-win](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0464-can-i-win) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0980-unique-paths-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0980-unique-paths-iii) |
 ## Bitmask
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0464-can-i-win) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Linked List
 |  |
@@ -1036,6 +1040,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0464-can-i-win](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0464-can-i-win) |
 | [0894-all-possible-full-binary-trees](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0894-all-possible-full-binary-trees) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2328-number-of-increasing-paths-in-a-grid) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
