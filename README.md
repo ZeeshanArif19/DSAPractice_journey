@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0473-matchsticks-to-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0473-matchsticks-to-square) |
 | [0475-heaters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0494-target-sum) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0435-non-overlapping-intervals) |
 | [0464-can-i-win](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0473-matchsticks-to-square) |
 | [0486-predict-the-winner](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0518-coin-change-ii) |
@@ -764,6 +766,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0282-expression-add-operators) |
+| [0473-matchsticks-to-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0980-unique-paths-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0980-unique-paths-iii) |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0464-can-i-win](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0980-unique-paths-iii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0980-unique-paths-iii) |
@@ -827,6 +831,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0464-can-i-win](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0464-can-i-win) |
+| [0473-matchsticks-to-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0473-matchsticks-to-square) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 ## Linked List
