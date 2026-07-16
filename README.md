@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2055-plates-between-candles](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2055-plates-between-candles) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Topological Sort
 |  |
 | ------- |
@@ -821,6 +822,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2592-maximize-greatness-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2592-maximize-greatness-of-an-array) |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1069,4 +1071,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0464-can-i-win](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0464-can-i-win) |
 | [0486-predict-the-winner](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0486-predict-the-winner) |
+## Enumeration
+|  |
+| ------- |
+| [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 <!---LeetCode Topics End-->
