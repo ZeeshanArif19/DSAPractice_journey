@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1579-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1579-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1584-min-cost-to-connect-all-points](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1584-min-cost-to-connect-all-points) |
+| [1615-maximal-network-rank](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1615-maximal-network-rank) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
