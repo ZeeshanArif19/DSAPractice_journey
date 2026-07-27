@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
+| [2258-escape-the-spreading-fire](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2258-escape-the-spreading-fire) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2140-solving-questions-with-brainpower) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2258-escape-the-spreading-fire](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2258-escape-the-spreading-fire) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2289-steps-to-make-array-non-decreasing) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2328-number-of-increasing-paths-in-a-grid) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1901-find-a-peak-element-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1901-find-a-peak-element-ii) |
+| [2258-escape-the-spreading-fire](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2258-escape-the-spreading-fire) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2536-increment-submatrices-by-one) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -573,6 +576,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2111-minimum-operations-to-make-the-array-k-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2111-minimum-operations-to-make-the-array-k-increasing) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2258-escape-the-spreading-fire](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2258-escape-the-spreading-fire) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
