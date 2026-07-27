@@ -5,7 +5,7 @@ public:
         int dr[4]={1,-1,0,0};
         int dc[4]={0,0,1,-1};
         
-        queue<vector<int>> q;
+        queue<pair<int,int>> q;
         for(int j=0;j<col;j++){
             if(water_time[0][j]>mid){
                 q.push({0,j});
@@ -16,8 +16,8 @@ public:
         while(!q.empty()){
             auto front=q.front();
             q.pop();
-            int i=front[0];
-            int j=front[1];
+            int i=front.first;
+            int j=front.second;
             
             if(i==row-1) return true;
 
@@ -46,7 +46,7 @@ public:
             time++;
         }
 
-        int l=1;
+        int l=0;
         int r=row*col;
         int ans=-1;
 
