@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1020-number-of-enclaves](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1020-number-of-enclaves) |
+| [1192-critical-connections-in-a-network](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1192-critical-connections-in-a-network) |
 | [1202-smallest-string-with-swaps](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1202-smallest-string-with-swaps) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1325-delete-leaves-with-a-given-value](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1325-delete-leaves-with-a-given-value) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0847-shortest-path-visiting-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0928-minimize-malware-spread-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0928-minimize-malware-spread-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0990-satisfiability-of-equality-equations) |
+| [1192-critical-connections-in-a-network](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1192-critical-connections-in-a-network) |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1514-path-with-maximum-probability](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1514-path-with-maximum-probability) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
@@ -1103,4 +1105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
