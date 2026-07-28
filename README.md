@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
 ## Union-Find
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2560-house-robber-iv](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2560-house-robber-iv) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2592-maximize-greatness-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2592-maximize-greatness-of-an-array) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3046-split-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3046-split-the-array) |
 | [3355-zero-array-transformation-i](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3355-zero-array-transformation-i) |
 ## Matrix
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2536-increment-submatrices-by-one](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2536-increment-submatrices-by-one) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -588,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2560-house-robber-iv](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2560-house-robber-iv) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -669,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Shortest Path
 |  |
 | ------- |
