@@ -325,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2358-maximum-number-of-groups-entering-a-competition) |
+| [2381-shifting-letters-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2381-shifting-letters-ii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -529,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2055-plates-between-candles](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2055-plates-between-candles) |
+| [2381-shifting-letters-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2381-shifting-letters-ii) |
 | [3403-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3403-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Topological Sort
 |  |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2055-plates-between-candles](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2055-plates-between-candles) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2251-number-of-flowers-in-full-bloom) |
+| [2381-shifting-letters-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2381-shifting-letters-ii) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2536-increment-submatrices-by-one](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2536-increment-submatrices-by-one) |
