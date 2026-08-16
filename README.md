@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2258-escape-the-spreading-fire](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2258-escape-the-spreading-fire) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1631-path-with-minimum-effort) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Graph Theory
 |  |
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1584-min-cost-to-connect-all-points) |
 | [1615-maximal-network-rank](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1615-maximal-network-rank) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2328-number-of-increasing-paths-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2328-number-of-increasing-paths-in-a-grid) |
 | [2577-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2577-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2858-minimum-edge-reversals-so-every-node-is-reachable](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2858-minimum-edge-reversals-so-every-node-is-reachable) |
