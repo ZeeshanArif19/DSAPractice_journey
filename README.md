@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0733-flood-fill) |
 | [0765-couples-holding-hands](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0765-couples-holding-hands) |
+| [0785-is-graph-bipartite](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0827-making-a-large-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0827-making-a-large-island) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0733-flood-fill) |
 | [0752-open-the-lock](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0752-open-the-lock) |
 | [0765-couples-holding-hands](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0765-couples-holding-hands) |
+| [0785-is-graph-bipartite](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0827-making-a-large-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0827-making-a-large-island) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0695-max-area-of-island) |
 | [0765-couples-holding-hands](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0765-couples-holding-hands) |
+| [0785-is-graph-bipartite](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0827-making-a-large-island) |
 | [0839-similar-string-groups](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0839-similar-string-groups) |
 | [0928-minimize-malware-spread-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0928-minimize-malware-spread-ii) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0684-redundant-connection) |
 | [0765-couples-holding-hands](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0765-couples-holding-hands) |
+| [0785-is-graph-bipartite](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0797-all-paths-from-source-to-target) |
 | [0834-sum-of-distances-in-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0834-sum-of-distances-in-tree) |
@@ -1151,4 +1155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0365-water-and-jug-problem](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0365-water-and-jug-problem) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
