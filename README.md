@@ -461,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0289-game-of-life) |
+| [0412-fizz-buzz](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0412-fizz-buzz) |
 | [0498-diagonal-traverse](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0498-diagonal-traverse) |
 | [1094-car-pooling](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1094-car-pooling) |
 | [2289-steps-to-make-array-non-decreasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2289-steps-to-make-array-non-decreasing) |
@@ -534,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0282-expression-add-operators) |
 | [0318-maximum-product-of-word-lengths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0318-maximum-product-of-word-lengths) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0412-fizz-buzz](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0424-longest-repeating-character-replacement) |
 | [0433-minimum-genetic-mutation](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -662,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0282-expression-add-operators) |
 | [0365-water-and-jug-problem](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0365-water-and-jug-problem) |
+| [0412-fizz-buzz](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0464-can-i-win](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0464-can-i-win) |
