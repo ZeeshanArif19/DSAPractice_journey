@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0473-matchsticks-to-square](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0473-matchsticks-to-square) |
 | [0475-heaters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0475-heaters) |
 | [0486-predict-the-winner](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0494-target-sum) |
 | [0498-diagonal-traverse](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0498-diagonal-traverse) |
 | [0518-coin-change-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0518-coin-change-ii) |
@@ -602,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0475-heaters) |
+| [0493-reverse-pairs](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0493-reverse-pairs) |
 | [0611-valid-triangle-number](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0713-subarray-product-less-than-k) |
@@ -860,6 +862,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0493-reverse-pairs) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2251-number-of-flowers-in-full-bloom) |
 ## Two Pointers
@@ -937,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0493-reverse-pairs](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0493-reverse-pairs) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search Tree
@@ -1072,6 +1076,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0493-reverse-pairs) |
 ## Design
 |  |
 | ------- |
@@ -1182,4 +1187,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0126-word-ladder-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0126-word-ladder-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
