@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0904-fruit-into-baskets) |
+| [0912-sort-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0912-sort-an-array) |
 | [0928-minimize-malware-spread-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0928-minimize-malware-spread-ii) |
 | [0948-bag-of-tokens](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0948-bag-of-tokens) |
 | [0952-largest-component-size-by-common-factor](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0952-largest-component-size-by-common-factor) |
@@ -701,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0767-reorganize-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
+| [0912-sort-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1094-car-pooling) |
@@ -947,6 +949,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0493-reverse-pairs](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 ## Binary Search Tree
@@ -1033,6 +1036,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0826-most-profit-assigning-work](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0826-most-profit-assigning-work) |
 | [0857-minimum-cost-to-hire-k-workers](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0857-minimum-cost-to-hire-k-workers) |
 | [0881-boats-to-save-people](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0973-k-closest-points-to-origin) |
 | [1090-largest-values-from-labels](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1090-largest-values-from-labels) |
@@ -1077,6 +1081,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0692-top-k-frequent-words](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0692-top-k-frequent-words) |
+| [0912-sort-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1084,6 +1089,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0493-reverse-pairs) |
+| [0912-sort-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -1209,4 +1215,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0493-reverse-pairs) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
