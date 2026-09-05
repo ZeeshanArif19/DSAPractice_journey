@@ -362,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3046-split-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3046-split-the-array) |
 | [3355-zero-array-transformation-i](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3355-zero-array-transformation-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -652,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2536-increment-submatrices-by-one](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2536-increment-submatrices-by-one) |
 | [3355-zero-array-transformation-i](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3355-zero-array-transformation-i) |
+| [3904-smallest-stable-index-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
