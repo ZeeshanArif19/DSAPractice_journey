@@ -1235,4 +1235,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0177-nth-highest-salary) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
