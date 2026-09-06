@@ -10,13 +10,13 @@ public:
 
         vector<vector<vector<int>>> dist(m,vector<vector<int>>(n,vector<int>(k+1,INT_MAX))); //r,c,elim
         using State=tuple<int,int,int,int>; //steps,r,c,elim
-        priority_queue<State,vector<State>,greater<State>> pq;
+        queue<State> q;
         dist[0][0][0]=0;
-        pq.push({0,0,0,0});
+        q.push({0,0,0,0});
 
-        while(!pq.empty()){
-            auto [steps,r,c,elim]=pq.top();
-            pq.pop();
+        while(!q.empty()){
+            auto [steps,r,c,elim]=q.front();
+            q.pop();
 
             if(r==m-1 && c==n-1) return steps;
             if(steps>dist[r][c][elim]) continue;
@@ -30,7 +30,7 @@ public:
                     
                     if(new_elim<=k && new_steps<dist[nr][nc][new_elim]){
                         dist[nr][nc][new_elim]=new_steps;
-                        pq.push({new_steps,nr,nc,new_elim});
+                        q.push({new_steps,nr,nc,new_elim});
                     }
                 }
             }
