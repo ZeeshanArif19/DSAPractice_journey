@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1792-maximum-average-pass-ratio](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1792-maximum-average-pass-ratio) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -1008,6 +1009,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1509-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1733-minimum-number-of-people-to-teach](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1733-minimum-number-of-people-to-teach) |
 | [1792-maximum-average-pass-ratio](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1792-maximum-average-pass-ratio) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1962-remove-stones-to-minimize-the-total) |
@@ -1060,6 +1062,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1552-magnetic-force-between-two-balls](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1552-magnetic-force-between-two-balls) |
 | [1697-checking-existence-of-edge-length-limited-paths](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1697-checking-existence-of-edge-length-limited-paths) |
+| [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2251-number-of-flowers-in-full-bloom](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2251-number-of-flowers-in-full-bloom) |
