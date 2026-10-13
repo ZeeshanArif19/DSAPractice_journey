@@ -367,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3046-split-the-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3046-split-the-array) |
 | [3355-zero-array-transformation-i](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3355-zero-array-transformation-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3904-smallest-stable-index-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
@@ -1025,6 +1026,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
 | [2560-house-robber-iv](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2560-house-robber-iv) |
 | [2592-maximize-greatness-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2592-maximize-greatness-of-an-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
 | ------- |
@@ -1076,6 +1078,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2542-maximum-subsequence-score](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2542-maximum-subsequence-score) |
 | [2592-maximize-greatness-of-an-array](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/2592-maximize-greatness-of-an-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sweep Line
 |  |
 | ------- |
