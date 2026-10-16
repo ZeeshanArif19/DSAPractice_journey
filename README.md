@@ -495,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -945,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0146-lru-cache) |
 | [0148-sort-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0328-odd-even-linked-list) |
@@ -1111,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0295-find-median-from-data-stream](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0295-find-median-from-data-stream) |
@@ -1246,4 +1249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0177-nth-highest-salary](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0177-nth-highest-salary) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0570-managers-with-at-least-5-direct-reports) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
