@@ -1251,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0184-department-highest-salary](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [1174-immediate-food-delivery-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1193-monthly-transactions-i) |
 | [1211-queries-quality-and-percentage](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1211-queries-quality-and-percentage) |
 | [1934-confirmation-rate](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1934-confirmation-rate) |
