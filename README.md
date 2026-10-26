@@ -1250,6 +1250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0177-nth-highest-salary) |
 | [0184-department-highest-salary](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0184-department-highest-salary) |
 | [0197-rising-temperature](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0197-rising-temperature) |
+| [0550-game-play-analysis-iv](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [1174-immediate-food-delivery-ii](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/ZeeshanArif19/DSAPractice_journey/tree/master/1193-monthly-transactions-i) |
